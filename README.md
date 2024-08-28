@@ -1,7 +1,6 @@
 ## Hi 👋 I'm ThisoHarini Vijayaletchumanan
 
-![258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420](https://github.com/user-attachments/assets/3469396a-612f-4358-82bd-3f0b87d28e2f)
-
+<img src="https://github.com/user-attachments/assets/3469396a-612f-4358-82bd-3f0b87d28e2f" width="600"/>
 
 - 💻 Undergraduate student at [Sri Lanka Institute of Information Technology (SLIIT)](https://www.sliit.lk/), specializing in Data Science.
   
